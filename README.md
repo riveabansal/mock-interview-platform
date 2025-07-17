@@ -1,3 +1,17 @@
+This project was created as part of my learning journey with WebDev. I followed a YouTube tutorial by [@javascriptmastery](https://www.youtube.com/@javascriptmastery) to understand the fundamentals of building modern, full-stack web applications.
+
+**TECH STACK**
+- Next.js
+- Firebase
+- Tailwind CSS
+- Vapi AI
+- shadcn/ui
+- Google Gemeni
+- Zod
+
+
+------------------------------------------------------------------------------------------------
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
